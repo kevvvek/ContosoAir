@@ -1,5 +1,7 @@
 [![Build Status](https://dev.azure.com/kevvek/kevin_contosoair/_apis/build/status/kevvvek.ContosoAir?branchName=master)](https://dev.azure.com/kevvek/kevin_contosoair/_build/latest?definitionId=3&branchName=master)
 
+![Build Status](https://dev.azure.com/kevvek/kevin_contosoair/_apis/build/status/kevvvek.ContosoAir?branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
